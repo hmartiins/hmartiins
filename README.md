@@ -3,9 +3,9 @@
 > #### Systems development student
 
 ### About me 📖
-My name is Henrique Melo Alves Martins, I'm 16 years old and I'm Brazilian (🇧🇷). I am currently studying at the institution Etec, I am in the 2nd year of the systems development course 👨‍💻. I'm currently in love with JavaScript / Node technologies 🥰. I studied a lot about ReactJS, React-Native, TypeScript, I've even seen Apache-Cordova LOL
+My name is Henrique Melo Alves Martins, I'm 16 years old and I'm Brazilian (🇧🇷). I study at the Etec institution and taking the 2nd year of the systems development course 👨‍💻. I've been in love with JavaScript / Node technologies 🥰. I studied a lot about ReactJS, React-Native, TypeScript and even saw Apache-Cordova LOL
 
-In my spare time I love watching and playing volleyball (🏐), listening to music (🎶), socializing with my friends (🗣️), playing a game (🎮) and watching a series (📺) !!
+In my free time I love watching and playing volleyball (🏐), listening to music (🎶), socializing with my friends (🗣️), playing a game (🎮) and watching a series (📺) !!
 
 ### Where can you find me ? 🔎
 
