@@ -10,3 +10,5 @@ In my spare time I love watching and playing volleyball 🏐, listening to music
 ### Where can you find me ? 🔎
 
 [Twitter](https://twitter.com/martinsH3nrique)
+[Facebook](https://www.facebook.com/profile.php?id=100004602799158)
+[Medium](https://medium.com/@hmartins224)
