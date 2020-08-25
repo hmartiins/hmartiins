@@ -11,8 +11,6 @@
 
 ## 🛠 My characteristics
 
----
-
 <br>
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
@@ -30,7 +28,6 @@
 
 ## ⚙️ Tech Stack
 
----
 <br>
 <p>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -41,12 +38,7 @@
   <img src="https://img.shields.io/badge/flutter-42a5f5.svg?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-
----
-
 <br>
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hmartiins&show_icons=true&theme=algolia&line_height=27">
 </p>
