@@ -16,7 +16,7 @@
   <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 My focus is currently on the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
   <li>📖 Currently I have been studying, Dart with Flutter and C#;</li>
-  <li>🥰 I love to play and watch volleyball (I support Taubate), and I love to watch football (Santos fans);</li>
+  <li>🥰 I love to play and watch volleyball (I support Taubate), and I love to watch soccer (Santos fans);</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 <br>
