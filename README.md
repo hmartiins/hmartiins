@@ -4,11 +4,11 @@
 **Systems development stydent** at Etec from Peruíbe
 <br><br>
 
-<a href="https://www.linkedin.com/in/henrique-martins-5b2bb71a5/"><img src="https://img.shields.io/badge/medium-575454.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://twitter.com/hmartiins_"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100004602799158"><img src="https://img.shields.io/badge/facebook-42a5f5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="mailto:hmartiins224@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-5b2bb71a5/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004602799158)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hmartiinss_)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://henriquinhodosgame#0633)
+
 
 ## 🛠 My characteristics
 
@@ -31,17 +31,18 @@
 
 <br>
 <p>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/flutter-42a5f5.svg?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=hmartiins&show_icons=true&theme=algolia&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmartiins&show_icons=true&theme=radical">
 </p>
 
 ---
