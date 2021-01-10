@@ -4,8 +4,8 @@
 **Systems development stydent** at Etec from Peruíbe
 <br><br>
 
-<a href="https://linkedin.com/in/csorlandi"><img src="https://img.shields.io/badge/medium-575454.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://twitter.com/martinsH3nrique"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/henrique-martins-5b2bb71a5/"><img src="https://img.shields.io/badge/medium-575454.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://twitter.com/hmartiins_"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=100004602799158"><img src="https://img.shields.io/badge/facebook-42a5f5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="mailto:hmartiins224@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 <br><br>
