@@ -4,7 +4,7 @@
 **Systems development student** at Etec from Peruíbe
 <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-5b2bb71a5/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-03436/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004602799158)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hmartiinss_)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://henriquinhodosgame#0633)
@@ -16,7 +16,7 @@
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 My focus is currently on the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
-  <li>📖 Currently I have been studying, Java and I want to study GoLang;</li>
+  <li>📖 Currently I have been studying, TypeScript and I want to study Java;</li>
   <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I love to watch soccer (Santos fans);</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
