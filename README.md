@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Henrique - 17y </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Systems development student** at Etec from Peruíbe
+**Systems Development Technician** at Etec from Peruíbe
 <br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-03436/)
@@ -17,7 +17,7 @@
   <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 My focus is currently on the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
   <li>📖 Currently I have been studying, TypeScript and I want to study Java;</li>
-  <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I love to watch soccer (Santos fans);</li>
+  <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I like to watch soccer (Santos fans);</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 <br>
