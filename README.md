@@ -15,7 +15,7 @@
 
 <br>
 <ul>
-  <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+  <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
   <li>💾 I master the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
   <li>📖 I'm currently studying C# and the .NET stack;</li>
   <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I like to watch soccer (Santos fans);</li>
