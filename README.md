@@ -15,10 +15,11 @@
 
 <br>
 <ul>
-  <li>🧑‍💻 I'm a Javascript Developer from <b>Peruíbe - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
+  <li>🧑‍💻 I'm a Javascript Developer from <b>Santos - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
   <li>💾 I master the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
   <li>📖 I'm currently studying C# and the .NET stack;</li>
   <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I like to watch soccer (Santos fans);</li>
+  <li>🚀 Enthusiast and contributor to the open-source world;</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 <br>
@@ -26,18 +27,4 @@
 > “The art of programming consists of organizing and mastering complexity.”
 ― Edsger W. Dijkstra
 
-<br>
-
-## ⚙️ Tech Stack
-
-<br>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 <br>
