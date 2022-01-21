@@ -3,6 +3,9 @@
 
 **Systems Development Technician** at Etec from Peruíbe
 <br>
+**Graduating in Computer Science** at Catholic University of Santos
+<br>
+
 **Developer Front-End** at UneCont | Tax Automation
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-03436/)
@@ -17,7 +20,7 @@
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>Santos - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
   <li>💾 I master the Javascript stack, where I have skills in: React-Native, React, Typescript and Node;</li>
-  <li>📖 I'm currently studying C# and the .NET stack;</li>
+  <li>📖 I'm currently studying Java;</li>
   <li>🥰 I love to play and watch volleyball (Cruzeiro fans), and I like to watch soccer (Santos fans);</li>
   <li>🚀 Enthusiast and contributor to the open-source world;</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
