@@ -6,7 +6,7 @@
 **Graduating in Computer Science** at Catholic University of Santos
 <br>
 
-**Developer Front-End** at Grão de Gente
+**Developer Senior** at levva.io
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-03436/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hmartinsdev)
