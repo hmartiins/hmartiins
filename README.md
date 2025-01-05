@@ -18,11 +18,11 @@
 <br>
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>Santos - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
-  <li>💾 I master the Javascript stack, my skills are: React, NextJS, React-Native, Typescript, NodeJS, Firebase, AWS, Google Analytics and others;</li>
-  <li>📖 I'm currently studying Cloud, DevOps and TailwindCSS;</li>
+  <li>💾 I master in the Front-End, my skills are: Flutter, React, NextJS, Typescript, NodeJS, Firebase, AWS, Google Analytics and others;</li>
+  <li>📖 I'm currently studying Cloud, DevOps and Architecture;</li>
   <li>🥰 I love to play and watch volleyball (Cruzeiro fan);</li>
   <li>🚀 Enthusiast and contributor to the open-source world;</li>
-  <li>🤝 Open for collaborations in Javascript Stack.</li>
+  <li>🤝 Open for collaborations.</li>
 </ul>
 <br>
 
