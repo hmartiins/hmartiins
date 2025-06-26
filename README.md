@@ -7,10 +7,6 @@
 <br>
 
 **Developer Senior** at levva.io
-<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-martins-03436/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hmartinsdev)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://henriquinhodosgame#0633)
 
 
 ## 🛠 My characteristics
