@@ -6,7 +6,7 @@
 **Graduating in Computer Science** at Catholic University of Santos
 <br>
 
-**Developer Senior** at levva.io
+**Senior Front-End Software Engineer** at levva.io
 
 
 ## 🛠 My characteristics
