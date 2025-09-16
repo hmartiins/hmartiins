@@ -6,7 +6,8 @@
 **Graduating in Computer Science** at Catholic University of Santos
 <br>
 
-**Senior Front-End Software Engineer** at levva.io
+**Senior Front-End Software Engineer** at levva.io and [**GDG Santos**](https://gdg.community.dev/gdg-santos/) Organizer
+
 
 
 ## 🛠 My characteristics
